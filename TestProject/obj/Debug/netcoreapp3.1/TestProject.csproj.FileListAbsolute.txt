@@ -1,0 +1,13 @@
+C:\Users\brendan\Documents\School\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.exe
+C:\Users\brendan\Documents\School\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.deps.json
+C:\Users\brendan\Documents\School\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.runtimeconfig.json
+C:\Users\brendan\Documents\School\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.runtimeconfig.dev.json
+C:\Users\brendan\Documents\School\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.dll
+C:\Users\brendan\Documents\School\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.pdb
+C:\Users\brendan\Documents\School\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.csprojAssemblyReference.cache
+C:\Users\brendan\Documents\School\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfoInputs.cache
+C:\Users\brendan\Documents\School\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfo.cs
+C:\Users\brendan\Documents\School\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\brendan\Documents\School\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.dll
+C:\Users\brendan\Documents\School\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.pdb
+C:\Users\brendan\Documents\School\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.genruntimeconfig.cache
