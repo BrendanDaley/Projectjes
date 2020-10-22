@@ -15,8 +15,8 @@ namespace TestProject
 ;
             if (appChoice == 1)
             {
-                Calculator calc1 = new Calculator();
-                calc1.Start();
+                Calculator calc = new Calculator();
+                calc.Start();
             }
             else if (appChoice == 2)
             {
