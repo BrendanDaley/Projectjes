@@ -8,8 +8,8 @@ namespace TestProject
         {
            
             Console.WriteLine("Which app wohuld you like to use?: ");
-            Console.WriteLine("1 to Exit the app");
-            Console.WriteLine("2 for the The calculator");
+            Console.WriteLine("1 for the The calculator");
+            Console.WriteLine("69 to Exit the app");
             String tempAppChoice = Console.ReadLine();
             int appChoice = Convert.ToInt32(tempAppChoice);
 ;

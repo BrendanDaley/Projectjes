@@ -1,0 +1,13 @@
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\bin\Debug\netcoreapp3.1\Projectjes.exe
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\bin\Debug\netcoreapp3.1\Projectjes.deps.json
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\bin\Debug\netcoreapp3.1\Projectjes.runtimeconfig.json
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\bin\Debug\netcoreapp3.1\Projectjes.runtimeconfig.dev.json
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\bin\Debug\netcoreapp3.1\Projectjes.dll
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\bin\Debug\netcoreapp3.1\Projectjes.pdb
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\obj\Debug\netcoreapp3.1\Projectjes.csprojAssemblyReference.cache
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\obj\Debug\netcoreapp3.1\Projectjes.AssemblyInfoInputs.cache
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\obj\Debug\netcoreapp3.1\Projectjes.AssemblyInfo.cs
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\obj\Debug\netcoreapp3.1\Projectjes.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\obj\Debug\netcoreapp3.1\Projectjes.dll
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\obj\Debug\netcoreapp3.1\Projectjes.pdb
+C:\Users\Brendan\Source\Repos\BrendanDaley\Projectjes\TestProject\obj\Debug\netcoreapp3.1\Projectjes.genruntimeconfig.cache
